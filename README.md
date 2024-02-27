@@ -1,3 +1,3 @@
 # calculator
 
-Calculadora em Java Script desenvolvida com base em Programação Orientada a Objetos.
+Calculadora em Java Script desenvolvida com base em Programação Orientada à Objetos.
